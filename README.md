@@ -5,3 +5,6 @@ https://towardsdatascience.com/time-series-pattern-recognition-with-air-quality-
 https://github.com/zhouxu-ds/ds-projects
 
 Follow the EDA.ipynb notebook
+
+Reference for plots:
+ https://pandas.pydata.org/pandas-docs/version/0.13/visualization.html
